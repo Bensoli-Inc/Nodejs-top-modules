@@ -3,3 +3,5 @@ const greeting = (name) => {
 }
 
 module.exports = greeting
+
+//familiar with export default
